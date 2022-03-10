@@ -559,6 +559,12 @@
   height: 350px;
   display: flex;
 }
+
+.picture_set i
+{
+  border: none;
+}
+
 .page3 .second_row .first_pic {
   background: url("../images/olya/calc.gif") no-repeat center;
 }
