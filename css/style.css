@@ -504,6 +504,7 @@
 * {
   margin: 0;
   padding: 0;
+  text-decoration : none;
 }
 .page3_title p {
   font-size: 30px;
