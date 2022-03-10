@@ -590,7 +590,8 @@
   top: 155px;
   width: 100%;
 }
-.page3 .overlay_pic .text i {
+.page3 .overlay_pic .text a {
+  text-decoration: none;
   display: flex;
   justify-content: center;
   color: #fff;
