@@ -808,7 +808,7 @@
 .page4 .text_block3:hover .hexagon::before {
   background: #fff;
 }
-.page4 .icon {
+.page4 .icon a{
   z-index: 2;
   margin: 0;
   position: absolute;
